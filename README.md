@@ -1,7 +1,7 @@
-YiimageIOProxy
+yii-image-io
 ==============
 
-A [yiiframework](http://yiiframwork.com) extension
+A [yiiframework](http://yiiframwork.com) image resize extension
 
 Requirements
 --------------
@@ -11,4 +11,5 @@ apc
 
 Usage
 --------------
+copy components folder to your project protected folder root
 
