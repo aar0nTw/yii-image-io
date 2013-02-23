@@ -3,7 +3,7 @@
  * Ext Image Service
  * @name EImageIOProxy
  * @author Aaron Huang
- * @version 1.0.0
+ * @license www.opensource.org/licenses/mit-license.php
  *
  */
 
