@@ -1,0 +1,14 @@
+{
+    "name": "aar0ntw/yii-image-io",
+    "description": "Image Resizer for the Yii PHP framework.",
+    "keywords": ["GD","Image","Resizer"],
+    "type": "yii-extension",
+    "license": "MIT",
+    "authors": [
+                {
+                            "name": "Aaron Huang (黃冠中)",
+                            "email": "aaroms9733+packagist@gmail.com",
+                            "homepage": "http://blog.buginception.com/"
+                        }
+        ]
+}
