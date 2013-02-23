@@ -11,5 +11,8 @@
                             "email": "aaroms9733+packagist@gmail.com",
                             "homepage": "http://blog.buginception.com/"
                         }
-    ]
+    ],
+    "require":{
+        "yiisoft/yii": ">=1.1.7"
+    }
 }
