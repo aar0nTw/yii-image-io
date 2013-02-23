@@ -4,11 +4,12 @@
     "keywords": ["GD","Image","Resizer"],
     "type": "yii-extension",
     "license": "MIT",
+    "homepage": "https://github.com/aar0nTw/yii-image-io",
     "authors": [
                 {
                             "name": "Aaron Huang (黃冠中)",
                             "email": "aaroms9733+packagist@gmail.com",
                             "homepage": "http://blog.buginception.com/"
                         }
-        ]
+    ]
 }
